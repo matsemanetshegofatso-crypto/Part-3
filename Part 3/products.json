@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Chocolate cake",
+        "category": "Cakes",
+        "price": 280,
+        "lead": 2
+    },
+
+    {
+        "name": "Vanilla cake",
+        "category": "Cakes",
+        "price": 250,
+        "lead": 2
+    },
+
+    {
+        "name": "Mini celebration cake",
+        "category": "Cakes",
+        "price": 120,
+        "lead": 2
+    },
+
+    {
+        "name": "Custom celebration cake",
+        "category": "Custom orders",
+        "price": 450,
+        "lead": 5,
+        "fromPrice": true
+    },
+    
+    {
+        "name": "Cupcakes (box of 6)",
+        "category": "Cupcakes",
+        "price": 90,
+        "lead": 1
+    },
+
+    {
+        "name": "French macarons (box of 6)",
+        "category": "Treats",
+        "price": 110,
+        "lead": 3
+    },
+
+    {
+        "name": "Cookies (box of 8)",
+        "category": "Treats",
+        "price": 70,
+        "lead": 1
+    },
+
+    {
+        "name": "Chocolate hamper",
+        "category": "Hampers",
+        "price": 350,
+        "lead": 1
+    }
+
+
+]
